@@ -1,0 +1,55 @@
+*{
+    font-family: 'Nunito';
+    src: local('./font-family/Nunito-Black.ttf')
+}
+html{
+    font-size: 15px;
+}
+
+header{
+    background-color: rgb(128, 128, 128);
+    padding: 0.3rem;
+    text-align: center;
+}
+
+h2{
+    padding: 0.2rem;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(4,170,109);
+    padding: 0.1rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 0.5rem;
+    width: auto;
+}
+
+main{
+
+    background-color: whitesmoke;
+    padding: 1rem;
+    line-height: 1.5;
+
+}
+.button{
+    background-color: rgb(4,170,109);
+    text-align: center;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+ul p{
+    font-size: 0.75rem;
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+footer{
+    background-color: rgb(128, 128, 128);
+    padding: 0.3rem;
+}
