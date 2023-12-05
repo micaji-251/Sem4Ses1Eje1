@@ -53,3 +53,7 @@ footer{
     background-color: rgb(128, 128, 128);
     padding: 0.3rem;
 }
+
+.buttonRight{
+    text-align: right;
+}
