@@ -57,9 +57,8 @@
 
   
 
-    Para agregar los fonts hay maneras,
+3. Para agregar los fonts hay maneras,
 
-  
 
     1. copiar los links al meta del html
 
